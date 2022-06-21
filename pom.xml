@@ -52,7 +52,7 @@
         <junit.version>4.12</junit.version>
         <log4j.version>1.2.17</log4j.version>
         <lombok.version>1.18.4</lombok.version>
-        <mysql.version>8.0.16</mysql.version>
+        <mysql.version>8.0.28</mysql.version>
         <mybatisplus.spring.boot.version>3.1.0</mybatisplus.spring.boot.version>
         <druid.spring.boot.version>1.1.10</druid.spring.boot.version>
     </properties>
